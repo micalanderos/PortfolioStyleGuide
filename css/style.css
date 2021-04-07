@@ -1,0 +1,50 @@
+
+
+
+h1{font-size:36px} 
+h2{font-size:30px} 
+h3{font-size:24px} 
+h4{font-size:20px} 
+h5{font-size:18px} 
+h6{font-size:16px}
+
+html, body, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+  }
+
+h1, h2, h3 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.w3-night {
+    color:#FCF7E6 !important;
+    background-color:#121212 !important;
+}
+.w3-smoke {
+    color:#121212 !important;
+    background-color:#FCF7E6 !important;
+}
+
+img {
+    width: 80%;
+    max-width: 600px;
+    min-width: 450px;
+}
+
+.btn {
+    color: #121212;
+    background-color: #FCF7E6;
+    font-family: 'Libre Baskerville', serif;
+    width: 200px;
+}
+.btnwine {
+    height: auto;
+    width: 220px;
+    background-image: url("/images/btnwine.svg");
+    background-size: 220px;
+}
+.btn .btnwine {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #57293B;
+}
